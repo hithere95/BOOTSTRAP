@@ -1,0 +1,130 @@
+.moja_slika {
+   padding-top: 5%;
+   width: 10% !important;
+   height: 100% !important;
+   margin-bottom: 20px;
+
+
+}
+
+.drugi {
+
+  
+   background-color: rgb(64, 199, 154);
+}
+
+.naslov {
+   color: white;
+   text-align: center;
+   font-weight: bold;
+}
+
+
+
+
+.fa-star {
+   width: 150px;
+   text-align: center;
+
+}
+
+
+.uf {
+   justify-content: center;
+
+}
+
+
+
+.dev {
+   text-align: center;
+   color: white;
+   font-size: 10px !important;
+   height: 100px !important;
+}
+
+.hej {
+   color: black;
+}
+
+
+
+.port {
+   margin-top: 20px !important;
+   color: grey;
+   text-align: center !important;
+   font-weight: bold !important;
+}
+
+
+.decorated {
+   overflow: hidden;
+   text-align: center;
+}
+
+.decorated>span {
+   position: relative;
+   display: inline-block;
+}
+
+.decorated>span:before,
+.decorated>span:after {
+   content: '';
+   position: absolute;
+   top: 35%;
+   border-bottom: 4px solid;
+   width: 70px;
+   margin: 0 0px;
+}
+
+.decorated>span:before {
+   right: 80%;
+}
+
+.decorated>span:after {
+   left: 80%;
+}
+
+.star_1 {
+
+   color: white;
+}
+
+.about_1 {
+   text-align: center;
+   color: white;
+   font-weight: bold;
+}
+
+.p1 {
+
+   text-align: left;
+   margin-left: 42%;
+   color: white;
+   font-size: 16px;
+   font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.p2 {
+   text-align: left;
+   margin-right: 42%;
+   color: white;
+   font-size: 16px;
+   font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.pp {
+
+   position: relative;
+}
+
+.kolone {
+   height: 30% !important;
+}
+
+.kontakt {
+
+   height: 15%;
+}
